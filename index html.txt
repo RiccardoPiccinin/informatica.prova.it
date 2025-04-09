@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Il Mio Semplice Sito</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+      background-color: #f0f0f0;
+    }
+    h1 {
+      color: #333;
+      text-align: center;
+    }
+    p {
+      color: #555;
+      line-height: 1.6;
+    }
+    .container {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Benvenuto nel Mio Sito!</h1>
+    <p>Ciao! Questo è un semplice sito web che ho creato. Puoi aggiungere qui tante informazioni interessanti!</p>
+    <p>Ad esempio, potresti parlare dei tuoi hobby, dei tuoi animali preferiti o delle cose che ti piacciono fare nel tempo libero.</p>
+    <h2>Le Mie Cose Preferite</h2>
+    <ul>
+      <li>Leggere libri</li>
+      <li>Andare in bicicletta</li>
+      <li>Ascoltare musica</li>
+    </ul>
+    <p>Puoi anche aggiungere delle immagini qui sotto se vuoi!</p>
+    </div>
+
+</body>
+</html>
